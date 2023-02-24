@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
-* [密码学基础](/cryptography.md)
+* [密码学基础](/#/cryptography.md)
   
 * 链接到我
   * [语雀地址](https://www.yuque.com/it_caizer)
