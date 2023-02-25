@@ -6,6 +6,7 @@
 * 数据库
 * 链接到我
   * [语雀地址](https://www.yuque.com/it_caizer)
+  * [博客地址](https://www.daencode.top)
 * [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
 * [个人导航](/navself/navself.md)
 
