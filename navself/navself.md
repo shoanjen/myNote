@@ -1,6 +1,5 @@
 <h1 align="center">JenNav导航网站</h1>
-
-
+<!-- 搜索 -->
       <div id="search" class="s-search">
         <div id="search-list" class="hide-type-list">
           <div class="s-type">
