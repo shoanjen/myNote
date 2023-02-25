@@ -1,7 +1,6 @@
 <h1 align="center">JenNav导航网站</h1>
 
-```html
-<!-- 搜索 -->
+
       <div id="search" class="s-search">
         <div id="search-list" class="hide-type-list">
           <div class="s-type">
@@ -65,6 +64,5 @@
                   for="type-git"><span style="color:#000000" class="dark-text">Github</span></label></li>
             </ul>
           </div>
-```
 
 * 博客论坛
