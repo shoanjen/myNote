@@ -1,6 +1,6 @@
 <h1 align="center">JenNav个人导航</h1>
 
-# 博客论坛
+> 博客论坛
 
 [CSDN](https://www.csdn.net/)
 
